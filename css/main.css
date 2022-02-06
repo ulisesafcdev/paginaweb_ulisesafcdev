@@ -2,6 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 @import url(header.css);
 @import url(banner.css);
+@import url(skills.css);
+@import url(backgroundbody.css);
+
 
 :root{
 	--color-primary: #260C1A;
