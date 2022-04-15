@@ -4,7 +4,7 @@
 @import url(banner.css);
 @import url(skills.css);
 @import url(backgroundbody.css);
-
+@import url(projects.css);
 
 :root{
 	--color-primary: #260C1A;
